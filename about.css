@@ -1,0 +1,37 @@
+*{margin: 0px;padding: 0px;} 
+.collapse navbar-collapse{font-family: 'IBM Plex Serif', serif;} 
+.card-title{margin-top: 150px;} 
+.card-text {color:azure;} 
+
+.img{
+    width: 300px;
+    height: 300px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    background:transparent;
+    background-image: url("images (51).jfif");
+    background-repeat: cover;
+    height: 200px;
+} 
+.img1{
+    width: 300px;
+    height: 300px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    background:transparent;
+    background-image: url("images (56).jfif");
+    background-repeat: cover;
+    height: 200px;
+} 
+.img2{
+    width: 300px;
+    height: 300px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    background:transparent;
+    background-image: url("images (52).jfif");
+    
+    background-repeat: cover;
+    height: 200px;
+} 
+.white {color: azure;} 
+.navbar-brand{font-family: 'IBM Plex Serif', serif; } 
+.collapse {background-color:;} 
+.defence{font-family: 'IBM Plex Serif', serif;}
